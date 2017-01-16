@@ -1,0 +1,95 @@
+start,end,label,activities,fill
+2016-05-12,2016-05-26,Sprint 1,Preparation and technologies research,#F3DADA
+2016-05-26,2016-06-12,Sprint 2,Preparation and testing of technologies,#F3DADA
+2016-06-13,2016-06-26,Sprint 3,,#F3DADA
+2016-06-13,2016-06-26,Administrator Authentication,Under Class Session > Administrator > Create Session module,#FFF2BB
+2016-06-13,2016-06-26,Set Session Status,Under Class Session > Administrator > Create Session module,#FFF2BB
+2016-06-13,2016-06-26,Jeopardy Challenge,Under Class Session > Student module,#FFF2BB
+2016-06-13,2016-06-26,MCQ Challenge,Under Class Session > Student module,#FFF2BB
+2016-06-27,2016-07-10,Sprint 4,,#F3DADA
+2016-06-27,2016-07-10,Text Based Challenge Creation,Under Admin-Create Challenge module,#FFF2BB
+2016-06-27,2016-07-10,Extended Link Based Challenge Support,Under Admin-Create Challenge module,#FFF2BB
+2016-06-27,2016-07-10,Extended Text Input,Under Student Challenge module,#FFF2BB
+2016-06-27,2016-07-10,Select Event Challenge,Under Admin-Review Event module,#FFF2BB
+2016-06-27,2016-07-10,Text Based Input Review,Under Admin-Review Event module,#FFF2BB
+2016-07-11,2016-07-24,Sprint 5,,#F3DADA
+2016-07-11,2016-07-24,Survey Creation,Under Admin-Create Challenge module,#FFF2BB
+2016-07-11,2016-07-24,Upload Survey Template,Under Admin-Create Challenge module,#FFF2BB
+2016-07-11,2016-07-24,Multiple Choice Challenge Creation,Under Admin-Create Challenge module,#FFF2BB
+2016-07-11,2016-07-24,Code Challenge,Under Student Challenge module,#FFF2BB
+2016-07-25,2016-08-07,Sprint 6,,#F3DADA
+2016-07-25,2016-08-07,Multiple Choice Challenge,Under Student Challenge module,#FFF2BB
+2016-07-25,2016-08-07,Survey Participation,Under Student Challenge module,#FFF2BB
+2016-07-25,2016-08-07,Code Review,Under Admin-Review Event module,#FFF2BB
+2016-07-25,2016-08-07,Announcements Module,Under Cohorts module,#FFF2BB
+2016-07-25,2016-08-07,Cohort Access Control,Under Cohorts module,#FFF2BB
+2016-07-25,2016-08-07,Cohort Creation,Under Cohorts module,#FFF2BB
+2016-07-25,2016-08-07,Assistant Assignment,Under Assistant module,#FFF2BB
+2016-07-25,2016-08-07,Assistant Access Control,Under Assistant module,#FFF2BB
+2016-08-10,,UAT1,,#669900
+2016-08-08,2016-08-21,Sprint 7,,#F3DADA
+2016-08-08,2016-08-21,Aggregate Ranking Across Events,Under Cohorts module,#FFF2BB
+2016-08-08,2016-08-21,Integrated Statistic Dashboard View (Cohorts),Under Cohorts module,#FFF2BB
+2016-08-08,2016-08-21,Dashboard View (Review),,#FFF2BB
+2016-08-08,2016-08-21,Graded Submission Review,,#FFF2BB
+2016-08-22,2016-09-04,Sprint 8,,#F3DADA
+2016-08-22,2016-09-04,Join Teams,,#FFF2BB
+2016-08-22,2016-09-04,Profile Update Challenge Creation,,#FFF2BB
+2016-08-22,2016-09-04,Profile Updating Challenge,,#FFF2BB
+2016-09-05,2016-09-18,Sprint 9,,#F3DADA
+2016-09-05,2016-09-18,Team Based Multiple Choice,,#FFF2BB
+2016-09-05,2016-09-18,Cohort Management,,#FFF2BB
+2016-09-05,2016-09-18,Cohort Assistants,,#FFF2BB
+2016-09-13,,UAT2,,#669900
+2016-09-19,2016-10-02,Sprint 10,,#F3DADA
+2016-09-19,2016-10-02,Game Show Module,,#FFF2BB
+2016-09-19,2016-10-02,Rank Based on Challenges,,#FFF2BB
+2016-10-03,2016-10-16,Sprint 11,,#F3DADA
+2016-10-03,2016-10-16,Instructor Feedback Module,,#FFF2BB
+2016-10-03,2016-10-16,Index Card Review,,#FFF2BB
+2016-10-03,2016-10-16,Question Queue,,#FFF2BB
+2016-10-03,2016-10-16,Team Based Index Cards,,#FFF2BB
+2016-10-17,2016-10-30,Sprint 12,,#F3DADA
+2016-10-17,2016-10-30,Mentor Assignment,,#FFF2BB
+2016-10-17,2016-10-30,Challenge Unlocking,,#FFF2BB
+2016-10-17,2016-10-30,Time Completion Challenge,,#FFF2BB
+2016-10-17,2016-10-30,Collaborative Submission,,#FFF2BB
+2016-10-31,2016-11-13,Sprint 13,,#F3DADA
+2016-10-31,2016-11-13,Participant Submission View,,#FFF2BB
+2016-10-31,2016-11-13,Cooperative Submission,,#FFF2BB
+2016-11-07,,UAT3,,#669900
+2016-11-14,2016-11-27,Sprint 14,,#F3DADA
+2016-11-14,2016-11-27,Necessary Badges Recommendation,,#FFF2BB
+2016-11-14,2016-11-27,Achievement Exploration,,#FFF2BB
+2016-07-07,,Merge 1,,#669900
+2016-07-22,,Merge 2,,#669900
+2016-08-01,,Merge 3,,#669900
+2016-08-09,,Merge 4,,#669900
+2016-02-24,,TM1,Team Meeting 1,#ED4848
+2016-01-18,,CM1,Client Meeting 1,#ED4848
+2016-02-03,,CM2,Client Meeting 2,#ED4848
+2016-03-24,,CM3,Client Meeting 3,#ED4848
+2016-05-02,,CM4,Client Meeting 4,#ED4848
+2016-05-25,,CM5,Client Meeting 5,#ED4848
+2016-06-29,,CM6,Client Meeting 6,#ED4848
+2016-07-27,,CM7,Client Meeting 7,#ED4848
+2016-08-10,,CM8,Client Meeting 8,#ED4848
+2016-10-05,,CM9,Client Meeting 9,#ED4848
+2016-05-15,,IS480 Start,,#669900
+2016-06-15,,Proposal Submission,,#669900
+2016-06-27,,SM1,Supervisor Meeting 1,#ED4848
+2016-08-25,,SM2,Supervisor Meeting 2,#ED4848
+2016-09-09,,SM3,Supervisor Meeting 3,#ED4848
+2016-09-23,,SM4,Supervisor Meeting 4,#ED4848
+2016-09-30,,SM5,Supervisor Meeting 5,#ED4848
+2016-10-13,,SM6,Supervisor Meeting 6,#ED4848
+2016-10-28,,SM7,Supervisor Meeting 7,#ED4848
+2016-11-11,,SM8,Supervisor Meeting 8,#ED4848
+2016-11-22,,SM9,Supervisor Meeting 9,#ED4848
+2016-08-11,,Acceptance,SIS SR 2.1 (0910-1800),#669900
+2016-08-18,,Registration and Class,1900-2100 @ NAKA,#669900
+2016-10-03,,Midterm,SIS SR 2.1 (Period from 2016-10-03 to 2016-10-07),#669900
+2016-11-07,,Poster Submission,,#669900
+2016-11-28,,Final,SIS SR 2.1 (Period from 2016-11-21 to 2016-11-30),#669900
+2016-12-02,,Poster Day,Tentative,#669900
+2016-01-18,2016-05-12,Project Plannning,Team forming and project selection,
